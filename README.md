@@ -8,3 +8,5 @@
 希望文科生同学们好好看书，也可以阅读 Python 官方文档。
 
 如果你感觉到了收获欢迎联系我给我打钱或者请我喝奶茶什么的。
+
+![pay](https://github.com/Xin-Shiyu/Python-Homework-Answers/raw/main/%E6%89%93%E9%92%B1%E7%A0%81.jpg)
